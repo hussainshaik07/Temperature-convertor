@@ -9,7 +9,9 @@ body{
     color: azure;
 }
 .container-fluid {
-    background-image: url("https://img.freepik.com/free-photo/closeup-shot-thermometer-beach-sand_181624-12367.jpg?w=900&t=st=1694239151~exp=1694239751~hmac=2e59a83fb3c5dd8b7a60a5a73a9d7c30283eae7a3fd0afce0a5da8ca93f61899");
+   
+    background: linear-gradient(to bottom, #3498db, #1abc9c, #34495e);
+
     width: 100%;
     background-size: cover;
     height: 100vh;
